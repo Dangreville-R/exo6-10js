@@ -1,0 +1,31 @@
+.divA {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(235, 252, 0);
+}
+.divB {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 9, 9);
+    visibility: visible;
+}
+.divC {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(42, 44, 165);
+}
+.divD {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(223, 4, 186);
+}
+
+.invisible{
+    visibility:hidden;
+}
+.bandeauh{
+    height:200px;
+    top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
